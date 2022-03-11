@@ -1,3 +1,5 @@
+package Arrays_and_Strings;
+
 import java.util.*;
 
 public class isPermutation {
